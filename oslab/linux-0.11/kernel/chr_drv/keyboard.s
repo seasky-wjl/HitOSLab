@@ -400,7 +400,7 @@ key_table:
 	.long cursor,cursor,do_self,cursor	
 	.long cursor,cursor,cursor,cursor	
 	.long none,none,do_self,func		
-	.long func,none,none,none		
+	.long press_f12_handle,none,none,none		
 	.long none,none,none,none		
 	.long none,none,none,none		
 	.long none,none,none,none		
